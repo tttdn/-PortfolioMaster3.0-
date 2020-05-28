@@ -22,4 +22,9 @@
     },
     {
       "idiom" : "iphone",
-      "siz
+      "size" : "60x60",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "size
