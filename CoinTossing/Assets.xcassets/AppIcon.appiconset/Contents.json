@@ -52,4 +52,9 @@
     },
     {
       "idiom" : "ipad",
-      "size" : "76x76"
+      "size" : "76x76",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "si
