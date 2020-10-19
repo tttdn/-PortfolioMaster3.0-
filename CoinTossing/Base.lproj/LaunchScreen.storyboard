@@ -3,4 +3,7 @@
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11106"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
-    </dep
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <sc
