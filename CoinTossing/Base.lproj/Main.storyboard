@@ -5,4 +5,4 @@
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-       
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11
