@@ -26,4 +26,4 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.91420417746113991" green="0.8173406824421181" blue="0.62554660881494495" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <accessibility key="accessibilityConfiguration" identifier="TossResult" label="TossResult"/>
-                                <col
+                                <color key="textColor" red="0.01070676813471505" green="0.0095723443293382945"
