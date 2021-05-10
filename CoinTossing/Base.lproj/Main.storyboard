@@ -28,4 +28,5 @@
                                 <accessibility key="accessibilityConfiguration" identifier="TossResult" label="TossResult"/>
                                 <color key="textColor" red="0.01070676813471505" green="0.0095723443293382945" blue="0.0073261342084860546" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleHeadline"/>
-                                <
+                                <textInputTraits key="textInputTraits"/>
+                            </textField
