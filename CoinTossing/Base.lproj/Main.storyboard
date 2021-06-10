@@ -34,4 +34,5 @@
                                 <rect key="frame" x="164" y="304" width="46" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.83959998660866419" green="0.91420417746113991" blue="0.080103924173512156" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <accessibility key="accessibilityConfiguration" identifier="TossB
+                                <accessibility key="accessibilityConfiguration" identifier="TossButton" label="TossButton"/>
+                                <state k
