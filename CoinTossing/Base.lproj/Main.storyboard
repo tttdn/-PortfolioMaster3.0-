@@ -37,4 +37,4 @@
                                 <accessibility key="accessibilityConfiguration" identifier="TossButton" label="TossButton"/>
                                 <state key="normal" title="Toss"/>
                                 <connections>
-                                    <action selector="Tos
+                                    <action selector="TosButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="p0v-K
