@@ -44,4 +44,4 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
-                   
+                        <outlet property="TossResult" destination="fnq-HG-Seh" id="RcU-fg
