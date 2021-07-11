@@ -46,4 +46,5 @@
                     <connections>
                         <outlet property="TossResult" destination="fnq-HG-Seh" id="RcU-fg-VJY"/>
                     </connections>
-                </viewContro
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder
