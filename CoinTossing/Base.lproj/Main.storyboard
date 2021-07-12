@@ -47,4 +47,6 @@
                         <outlet property="TossResult" destination="fnq-HG-Seh" id="RcU-fg-VJY"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+          
