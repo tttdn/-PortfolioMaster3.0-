@@ -1,0 +1,53 @@
+
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9BBBB0C61E295CED000000AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBBB0C51E295CED000000AB /* AppDelegate.swift */; };
+		9BBBB0C81E295CED000000AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBBB0C71E295CED000000AB /* ViewController.swift */; };
+		9BBBB0CB1E295CED000000AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BBBB0C91E295CED000000AB /* Main.storyboard */; };
+		9BBBB0CD1E295CED000000AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BBBB0CC1E295CED000000AB /* Assets.xcassets */; };
+		9BBBB0D01E295CED000000AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BBBB0CE1E295CED000000AB /* LaunchScreen.storyboard */; };
+		9BBBB0DB1E295CED000000AB /* CoinTossingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBBB0DA1E295CED000000AB /* CoinTossingTests.swift */; };
+		9BBBB0E61E295CEE000000AB /* CoinTossingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBBB0E51E295CEE000000AB /* CoinTossingUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9BBBB0D71E295CED000000AB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9BBBB0BA1E295CED000000AB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BBBB0C11E295CED000000AB;
+			remoteInfo = CoinTossing;
+		};
+		9BBBB0E21E295CEE000000AB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9BBBB0BA1E295CED000000AB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9BBBB0C11E295CED000000AB;
+			remoteInfo = CoinTossing;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9BBBB0C21E295CED000000AB /* CoinTossing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinTossing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BBBB0C51E295CED000000AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9BBBB0C71E295CED000000AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9BBBB0CA1E295CED000000AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9BBBB0CC1E295CED000000AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9BBBB0CF1E295CED000000AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9BBBB0D11E295CED000000AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BBBB0D61E295CED000000AB /* CoinTossingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinTossingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BBBB0DA1E295CED000000AB /* CoinTossingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinTossingTests.swift; sourceTree = "<group>"; };
+		9BBBB0DC1E295CED000000AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BBBB0E11E295CEE000000AB /* CoinTossingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinTossingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BBBB0E51E295CEE000000AB /* CoinTossingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinTossingUITests.swift; sourceTree = "<group>"; };
+		9BBBB0E71E295CEE000000AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
