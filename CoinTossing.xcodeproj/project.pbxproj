@@ -51,3 +51,67 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		9BBBB0BF1E295CED000000AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BBBB0D31E295CED000000AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BBBB0DE1E295CED000000AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9BBBB0B91E295CED000000AB = {
+			isa = PBXGroup;
+			children = (
+				9BBBB0C41E295CED000000AB /* CoinTossing */,
+				9BBBB0D91E295CED000000AB /* CoinTossingTests */,
+				9BBBB0E41E295CEE000000AB /* CoinTossingUITests */,
+				9BBBB0C31E295CED000000AB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9BBBB0C31E295CED000000AB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9BBBB0C21E295CED000000AB /* CoinTossing.app */,
+				9BBBB0D61E295CED000000AB /* CoinTossingTests.xctest */,
+				9BBBB0E11E295CEE000000AB /* CoinTossingUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9BBBB0C41E295CED000000AB /* CoinTossing */ = {
+			isa = PBXGroup;
+			children = (
+				9BBBB0C51E295CED000000AB /* AppDelegate.swift */,
+				9BBBB0C71E295CED000000AB /* ViewController.swift */,
+				9BBBB0C91E295CED000000AB /* Main.storyboard */,
+				9BBBB0CC1E295CED000000AB /* Assets.xcassets */,
+				9BBBB0CE1E295CED000000AB /* LaunchScreen.storyboard */,
+				9BBBB0D11E295CED000000AB /* Info.plist */,
+			);
+			path = CoinTossing;
+			sourceTree = "<group>";
+		};
+		9BBBB0D91E295CED000000AB /* CoinTossingTests */ = {
+			isa = PBXGroup;
+			children = (
+				9BBBB0DA1E295CED000000AB /* CoinTossingTests.swift */,
+				9BBBB0DC1E295CED000000AB /* Info.plist */,
+			);
+			path = CoinTossingTests;
