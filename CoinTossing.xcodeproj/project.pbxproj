@@ -115,3 +115,64 @@
 				9BBBB0DC1E295CED000000AB /* Info.plist */,
 			);
 			path = CoinTossingTests;
+			sourceTree = "<group>";
+		};
+		9BBBB0E41E295CEE000000AB /* CoinTossingUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9BBBB0E51E295CEE000000AB /* CoinTossingUITests.swift */,
+				9BBBB0E71E295CEE000000AB /* Info.plist */,
+			);
+			path = CoinTossingUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9BBBB0C11E295CED000000AB /* CoinTossing */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BBBB0EA1E295CEE000000AB /* Build configuration list for PBXNativeTarget "CoinTossing" */;
+			buildPhases = (
+				9BBBB0BE1E295CED000000AB /* Sources */,
+				9BBBB0BF1E295CED000000AB /* Frameworks */,
+				9BBBB0C01E295CED000000AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CoinTossing;
+			productName = CoinTossing;
+			productReference = 9BBBB0C21E295CED000000AB /* CoinTossing.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9BBBB0D51E295CED000000AB /* CoinTossingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BBBB0ED1E295CEE000000AB /* Build configuration list for PBXNativeTarget "CoinTossingTests" */;
+			buildPhases = (
+				9BBBB0D21E295CED000000AB /* Sources */,
+				9BBBB0D31E295CED000000AB /* Frameworks */,
+				9BBBB0D41E295CED000000AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9BBBB0D81E295CED000000AB /* PBXTargetDependency */,
+			);
+			name = CoinTossingTests;
+			productName = CoinTossingTests;
+			productReference = 9BBBB0D61E295CED000000AB /* CoinTossingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9BBBB0E01E295CED000000AB /* CoinTossingUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9BBBB0F01E295CEE000000AB /* Build configuration list for PBXNativeTarget "CoinTossingUITests" */;
+			buildPhases = (
+				9BBBB0DD1E295CED000000AB /* Sources */,
+				9BBBB0DE1E295CED000000AB /* Frameworks */,
+				9BBBB0DF1E295CED000000AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9BBBB0E31E295CEE000000AB /* PBXTargetDependency */,
