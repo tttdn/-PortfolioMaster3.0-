@@ -258,3 +258,62 @@
 /* Begin PBXSourcesBuildPhase section */
 		9BBBB0BE1E295CED000000AB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BBBB0C81E295CED000000AB /* ViewController.swift in Sources */,
+				9BBBB0C61E295CED000000AB /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BBBB0D21E295CED000000AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BBBB0DB1E295CED000000AB /* CoinTossingTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9BBBB0DD1E295CED000000AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BBBB0E61E295CEE000000AB /* CoinTossingUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9BBBB0D81E295CED000000AB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BBBB0C11E295CED000000AB /* CoinTossing */;
+			targetProxy = 9BBBB0D71E295CED000000AB /* PBXContainerItemProxy */;
+		};
+		9BBBB0E31E295CEE000000AB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9BBBB0C11E295CED000000AB /* CoinTossing */;
+			targetProxy = 9BBBB0E21E295CEE000000AB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9BBBB0C91E295CED000000AB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9BBBB0CA1E295CED000000AB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9BBBB0CE1E295CED000000AB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9BBBB0CF1E295CED000000AB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9BBBB0E81E295CEE000000AB /* Debug */ = {
