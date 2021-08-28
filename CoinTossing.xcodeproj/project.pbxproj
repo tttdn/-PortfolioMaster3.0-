@@ -460,3 +460,70 @@
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CoinTossing.app/CoinTossing";
 			};
 			name = Release;
+		};
+		9BBBB0F11E295CEE000000AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = CoinTossingUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Test.CoinTossingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = CoinTossing;
+			};
+			name = Debug;
+		};
+		9BBBB0F21E295CEE000000AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = CoinTossingUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Test.CoinTossingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = CoinTossing;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9BBBB0BD1E295CED000000AB /* Build configuration list for PBXProject "CoinTossing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BBBB0E81E295CEE000000AB /* Debug */,
+				9BBBB0E91E295CEE000000AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9BBBB0EA1E295CEE000000AB /* Build configuration list for PBXNativeTarget "CoinTossing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BBBB0EB1E295CEE000000AB /* Debug */,
+				9BBBB0EC1E295CEE000000AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9BBBB0ED1E295CEE000000AB /* Build configuration list for PBXNativeTarget "CoinTossingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BBBB0EE1E295CEE000000AB /* Debug */,
+				9BBBB0EF1E295CEE000000AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9BBBB0F01E295CEE000000AB /* Build configuration list for PBXNativeTarget "CoinTossingUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9BBBB0F11E295CEE000000AB /* Debug */,
+				9BBBB0F21E295CEE000000AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9BBBB0BA1E295CED000000AB /* Project object */;
+}
