@@ -7,4 +7,6 @@
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForTesting = 
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForPro
