@@ -11,4 +11,6 @@
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-            buildForAnaly
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdent
