@@ -9,4 +9,6 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForPro
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnaly
