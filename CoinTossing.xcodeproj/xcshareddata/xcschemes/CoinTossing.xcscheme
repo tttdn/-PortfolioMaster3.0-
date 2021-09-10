@@ -20,4 +20,6 @@
                ReferencedContainer = "container:CoinTossing.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
-  
+      </BuildActionEntries>
+   </BuildAction>
+   <TestActio
