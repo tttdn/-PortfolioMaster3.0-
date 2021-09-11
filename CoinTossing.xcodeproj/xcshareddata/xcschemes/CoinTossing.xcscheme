@@ -22,4 +22,6 @@
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
-   <TestActio
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = 
