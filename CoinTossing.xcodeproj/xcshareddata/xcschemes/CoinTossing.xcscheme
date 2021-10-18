@@ -24,4 +24,5 @@
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
-      selectedDebuggerIdentifier = 
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherId
