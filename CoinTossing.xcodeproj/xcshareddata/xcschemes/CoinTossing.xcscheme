@@ -29,3 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
+            skipped = "NO">
+            <BuildableReference
+             
