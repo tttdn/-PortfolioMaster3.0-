@@ -35,4 +35,5 @@
                BlueprintIdentifier = "9BBBB0D51E295CED000000AB"
                BuildableName = "CoinTossingTests.xctest"
                BlueprintName = "CoinTossingTests"
-               Re
+               ReferencedContainer = "container:CoinTossing.xcodeproj">
+            </B
