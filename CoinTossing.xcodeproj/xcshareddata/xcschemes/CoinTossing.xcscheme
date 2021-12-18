@@ -39,4 +39,6 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
- 
+            skipped = "NO">
+            <BuildableReference
+               
