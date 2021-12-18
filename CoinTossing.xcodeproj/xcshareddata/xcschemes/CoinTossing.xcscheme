@@ -41,4 +41,5 @@
          <TestableReference
             skipped = "NO">
             <BuildableReference
-               
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9BBBB
