@@ -42,4 +42,6 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9BBBB
+               BlueprintIdentifier = "9BBBB0E01E295CED000000AB"
+               BuildableName = "CoinTossingUITests.xctest"
+   
