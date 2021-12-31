@@ -45,4 +45,5 @@
                BlueprintIdentifier = "9BBBB0E01E295CED000000AB"
                BuildableName = "CoinTossingUITests.xctest"
                BlueprintName = "CoinTossingUITests"
-              
+               ReferencedContainer = "container:CoinTossing.xcodeproj">
+            </Build
