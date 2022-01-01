@@ -46,4 +46,7 @@
                BuildableName = "CoinTossingUITests.xctest"
                BlueprintName = "CoinTossingUITests"
                ReferencedContainer = "container:CoinTossing.xcodeproj">
-            </Build
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpans
