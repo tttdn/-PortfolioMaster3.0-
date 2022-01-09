@@ -58,4 +58,6 @@
             ReferencedContainer = "container:CoinTossing.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
- 
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAct
