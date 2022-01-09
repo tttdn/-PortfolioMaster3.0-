@@ -60,4 +60,7 @@
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
-   </TestAct
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      se
