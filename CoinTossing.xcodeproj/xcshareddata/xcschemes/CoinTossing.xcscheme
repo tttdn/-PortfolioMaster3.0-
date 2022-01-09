@@ -53,4 +53,5 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BBBB0C11E295CED000000AB"
-            Bu
+            BuildableName = "CoinTossing.app"
+            BlueprintNam
