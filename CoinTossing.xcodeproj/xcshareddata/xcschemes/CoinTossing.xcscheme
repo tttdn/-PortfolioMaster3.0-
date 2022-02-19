@@ -72,4 +72,6 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
-         runn
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            Build
