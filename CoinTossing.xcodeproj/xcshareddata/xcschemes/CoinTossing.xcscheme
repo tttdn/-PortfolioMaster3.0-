@@ -68,4 +68,6 @@
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
-      debugDocumentVersio
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocat
