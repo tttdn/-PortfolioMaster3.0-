@@ -70,4 +70,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocat
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runn
