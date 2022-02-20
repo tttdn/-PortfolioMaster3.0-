@@ -75,4 +75,6 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9BBBB0C1
+            BlueprintIdentifier = "9BBBB0C11E295CED000000AB"
+            BuildableName = "CoinTossing.app"
+            BlueprintName = "
