@@ -78,4 +78,6 @@
             BlueprintIdentifier = "9BBBB0C11E295CED000000AB"
             BuildableName = "CoinTossing.app"
             BlueprintName = "CoinTossing"
-            ReferencedContainer = "container:CoinTossi
+            ReferencedContainer = "container:CoinTossing.xcodeproj">
+         </BuildableReference>
+      </BuildableProd
