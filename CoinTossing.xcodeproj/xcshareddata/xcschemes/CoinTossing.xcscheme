@@ -83,4 +83,7 @@
       </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
-   </LaunchActio
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLau
