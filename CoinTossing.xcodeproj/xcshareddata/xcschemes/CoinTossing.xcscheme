@@ -80,4 +80,7 @@
             BlueprintName = "CoinTossing"
             ReferencedContainer = "container:CoinTossing.xcodeproj">
          </BuildableReference>
-      </BuildableProd
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchActio
