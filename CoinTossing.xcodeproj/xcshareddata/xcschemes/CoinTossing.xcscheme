@@ -90,4 +90,7 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRun
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+        
