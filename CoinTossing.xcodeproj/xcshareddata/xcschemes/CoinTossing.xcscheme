@@ -105,4 +105,6 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfigu
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveActi
