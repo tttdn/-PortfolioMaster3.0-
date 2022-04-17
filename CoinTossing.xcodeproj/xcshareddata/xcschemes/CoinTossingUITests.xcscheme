@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "0820"
@@ -32,16 +33,6 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9BBBB0D51E295CED000000AB"
-               BuildableName = "CoinTossingTests.xctest"
-               BlueprintName = "CoinTossingTests"
-               ReferencedContainer = "container:CoinTossing.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
                BlueprintIdentifier = "9BBBB0E01E295CED000000AB"
                BuildableName = "CoinTossingUITests.xctest"
                BlueprintName = "CoinTossingUITests"
@@ -65,47 +56,3 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      launchStyle = "0"
-      useCustomWorkingDirectory = "NO"
-      ignoresPersistentStateOnLaunch = "NO"
-      debugDocumentVersioning = "YES"
-      debugServiceExtension = "internal"
-      allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9BBBB0C11E295CED000000AB"
-            BuildableName = "CoinTossing.app"
-            BlueprintName = "CoinTossing"
-            ReferencedContainer = "container:CoinTossing.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
-   </LaunchAction>
-   <ProfileAction
-      buildConfiguration = "Release"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      savedToolIdentifier = ""
-      useCustomWorkingDirectory = "NO"
-      debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9BBBB0C11E295CED000000AB"
-            BuildableName = "CoinTossing.app"
-            BlueprintName = "CoinTossing"
-            ReferencedContainer = "container:CoinTossing.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
-   </ProfileAction>
-   <AnalyzeAction
-      buildConfiguration = "Debug">
-   </AnalyzeAction>
-   <ArchiveAction
-      buildConfiguration = "Release"
-      revealArchiveInOrganizer = "YES">
-   </ArchiveAction>
-</Scheme>
