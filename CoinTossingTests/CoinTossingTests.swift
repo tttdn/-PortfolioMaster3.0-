@@ -1,0 +1,3 @@
+//
+//  CoinTossingTests.swift
+//  CoinTossingTest
