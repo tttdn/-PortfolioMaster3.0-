@@ -7,4 +7,8 @@
 //
 
 import XCTest
-@testable import Coi
+@testable import CoinTossing
+
+class CoinTossingTests: XCTestCase {
+    
+    override func s
