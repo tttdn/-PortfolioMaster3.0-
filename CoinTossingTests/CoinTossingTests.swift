@@ -11,4 +11,6 @@ import XCTest
 
 class CoinTossingTests: XCTestCase {
     
-    override func s
+    override func setUp() {
+        super.setUp()
+        // Put setup code here. This 
