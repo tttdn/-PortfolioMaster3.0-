@@ -17,4 +17,4 @@ class CoinTossingTests: XCTestCase {
     }
     
     override func tearDown() {
-        // Put teardown code 
+        // Put teardown code here. This method is called after the invocation of each test metho
