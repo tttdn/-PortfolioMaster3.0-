@@ -21,4 +21,5 @@ class CoinTossingTests: XCTestCase {
         super.tearDown()
     }
     
-    fu
+    func testExample() {
+        // This is an example of a functional
