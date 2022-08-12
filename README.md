@@ -11,4 +11,7 @@ Clone this repo and change directory `CoinTossing`
 Assuming you have Ruby or RVM or RBenv setup 
 
               $ gem install bundler 
-              $ bund
+              $ bundle install 
+              $ bundle exec fastlane test
+              
+ 
