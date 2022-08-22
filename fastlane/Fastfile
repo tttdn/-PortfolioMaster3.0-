@@ -1,0 +1,2 @@
+lane :test do |options|
+  scheme_to_test = "CoinTossing

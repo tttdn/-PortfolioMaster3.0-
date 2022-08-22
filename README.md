@@ -14,4 +14,4 @@ Assuming you have Ruby or RVM or RBenv setup
               $ bundle install 
               $ bundle exec fastlane test
               
- 
+              
