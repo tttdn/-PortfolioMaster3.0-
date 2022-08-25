@@ -1,2 +1,6 @@
 lane :test do |options|
-  scheme_to_test = "CoinTossing
+  scheme_to_test = "CoinTossingUITests"
+
+  scan_options = {
+    scheme: scheme_to_test,
+    devic
