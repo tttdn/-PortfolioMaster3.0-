@@ -3,4 +3,6 @@ lane :test do |options|
 
   scan_options = {
     scheme: scheme_to_test,
-    devic
+    device: 'iPhone 6',
+    output_directory: 'artifacts/tests',
+    custom_repo
