@@ -5,4 +5,7 @@ lane :test do |options|
     scheme: scheme_to_test,
     device: 'iPhone 6',
     output_directory: 'artifacts/tests',
-    custom_repo
+    custom_report_file_name: 'report.xml'
+  }
+  begin
+    retry_count ||= 0
