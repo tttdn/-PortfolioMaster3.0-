@@ -11,4 +11,5 @@ lane :test do |options|
     retry_count ||= 0
     scan(scan_options)
   rescue => e
-    UI.important("failure noted: 
+    UI.important("failure noted: #{e}")
+    report_filepath = File.absolute_path('../artifacts/tests/r
