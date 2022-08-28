@@ -9,3 +9,6 @@ lane :test do |options|
   }
   begin
     retry_count ||= 0
+    scan(scan_options)
+  rescue => e
+    UI.important("failure noted: 
