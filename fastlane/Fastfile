@@ -12,4 +12,6 @@ lane :test do |options|
     scan(scan_options)
   rescue => e
     UI.important("failure noted: #{e}")
-    report_filepath = File.absolute_path('../artifacts/tests/r
+    report_filepath = File.absolute_path('../artifacts/tests/report.xml')
+    unless File.exist?(report_filepath)
+      rai
