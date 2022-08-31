@@ -14,4 +14,7 @@ lane :test do |options|
     UI.important("failure noted: #{e}")
     report_filepath = File.absolute_path('../artifacts/tests/report.xml')
     unless File.exist?(report_filepath)
-      rai
+      raise e
+    end
+    if (retry_count += 1) < 3
+      setup_fragile_
