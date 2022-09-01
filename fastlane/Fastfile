@@ -18,4 +18,6 @@ lane :test do |options|
     end
     if (retry_count += 1) < 3
       setup_fragile_tests_for_rescan(
-        project_path: File.absolute_pat
+        project_path: File.absolute_path('../CoinTossing.xcodeproj'),
+        scheme: scheme_to_test,
+        report_fil
