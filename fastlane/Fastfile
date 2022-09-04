@@ -20,4 +20,7 @@ lane :test do |options|
       setup_fragile_tests_for_rescan(
         project_path: File.absolute_path('../CoinTossing.xcodeproj'),
         scheme: scheme_to_test,
-        report_fil
+        report_filepath: report_filepath
+      )
+      clear_derived_data
+      reset_simulator_c
