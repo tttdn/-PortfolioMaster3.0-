@@ -23,4 +23,8 @@ lane :test do |options|
         report_filepath: report_filepath
       )
       clear_derived_data
-      reset_simulator_c
+      reset_simulator_contents if retry_count > 1
+      retry
+    end
+  end
+end
