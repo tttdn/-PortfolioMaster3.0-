@@ -5,4 +5,6 @@
     
     
       
-      <testcase classname="fas
+      <testcase classname="fastlane.lanes" name="0: scan" time="27.601532">
+        
+         
