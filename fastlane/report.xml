@@ -7,4 +7,4 @@
       
       <testcase classname="fastlane.lanes" name="0: scan" time="27.601532">
         
-          <failure message="/Users/shashi/.rvm/gems/ruby-
+          <failure message="/Users/shashi/.rvm/gems/ruby-2.3.3/gems/fastlane-2.8.0/fastlane/lib/fastlane/actions/actions_helper.rb:
