@@ -16,4 +16,5 @@
         
       </testcase>
     
-   
+      
+      <testcase classname="fastlane.lanes" name="2: clear_derived
