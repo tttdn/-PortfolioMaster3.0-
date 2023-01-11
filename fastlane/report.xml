@@ -12,4 +12,8 @@
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: setup_fragile_tests_
+      <testcase classname="fastlane.lanes" name="1: setup_fragile_tests_for_rescan" time="0.073719">
+        
+      </testcase>
+    
+   
