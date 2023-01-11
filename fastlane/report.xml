@@ -22,4 +22,5 @@
       </testcase>
     
       
-      <testcase cl
+      <testcase classname="fastlane.lanes" name="3: scan" time="36.613974">
+        
