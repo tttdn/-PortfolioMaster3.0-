@@ -34,4 +34,7 @@
       </testcase>
     
       
-      <testcase classname="fastlane.l
+      <testcase classname="fastlane.lanes" name="5: clear_derived_data" time="0.037157">
+        
+      </testcase>
+    
