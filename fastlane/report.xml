@@ -38,3 +38,5 @@
         
       </testcase>
     
+      
+      <testcase classname="fastlane.lanes" name="6: scan
