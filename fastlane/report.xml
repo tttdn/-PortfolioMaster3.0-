@@ -39,4 +39,9 @@
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="6: scan
+      <testcase classname="fastlane.lanes" name="6: scan" time="27.03526">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
